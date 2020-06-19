@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rebeltrooper_warpsmod",
+  "name": "Warps Mod",
+  "description": "A mod to implement warp points.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RebelTrooper"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
